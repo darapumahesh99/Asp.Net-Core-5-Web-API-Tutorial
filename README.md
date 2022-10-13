@@ -4,3 +4,4 @@
 => Accepted() -> 202
 => Bad Request() -> 400
 => Created(url, value) -> 201 for post
+=> NoContent -> 404
